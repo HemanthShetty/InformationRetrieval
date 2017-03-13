@@ -67,7 +67,7 @@ There are two python files
 	    python WebCrawler-DFS.py [seedurl] [keyword]
 	    example- python WebCrawler-DFS.py http://en.wikipedia.org/wiki/Sustainable_energy solar
 
-Assignment-2
+INFORMATION RETRIEVAL -ASSIGNMENT 2
 ******************************************************************************************
 This assignment is coded using Python version 2.7.10
 
@@ -108,7 +108,7 @@ Uncomment the commented methods to print kendall Tau statistics and store rankin
 
 
 
-ASSIGNMENT-3
+INFORMATION RETRIEVAL -ASSIGNMENT 3
 ******************************************************************************************
 
 This assignment is coded using Python version 2.7.10
@@ -144,7 +144,7 @@ def main():     #generateCorpus(dataFile)     #unigramIndexer(corpusDirector
 4) uncomment trigramIndexer(corpusDirectoryName) to generate trigram indexes
 
 
-ASSIGNMENT-4
+INFORMATION RETRIEVAL -ASSIGNMENT 4
 ******************************************************************************************
 
 This assignment is coded using Python version 2.7.10
